@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>5.16蔚来后端实习二面</title>
+    <link href="/2024/05/16/5-16%E8%94%9A%E6%9D%A5%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0%E4%BA%8C%E9%9D%A2/"/>
+    <url>/2024/05/16/5-16%E8%94%9A%E6%9D%A5%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0%E4%BA%8C%E9%9D%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="5-16蔚来后端实习二面（智能制造方向）"><a href="#5-16蔚来后端实习二面（智能制造方向）" class="headerlink" title="5.16蔚来后端实习二面（智能制造方向）"></a>5.16蔚来后端实习二面（智能制造方向）</h1><p>1.自我介绍；</p><p>2.项目问答（协助导师解决sql性能问题）；</p><p>3.sql碰到性能问题，不用消息队列还能使用什么办法处理（回答加索引）；</p><p>4.用explain去查询执行计划会提供哪些信息，怎么去看懂一个查询计划；</p><p>5.mysql的索引结构，b+树的优点，为什么只在叶子节点存储数据；</p><p>6.MVVC，InnoDB怎么解决的幻读问题；</p><p>7.讲一讲Java垃圾回收，标注清除和标记整理有什么区别；</p><p>8.stop the world概念，进入它需要什么前提条件（安全点状态）；</p><p>9.银行家算法以及如何解决；</p><p>10.easyExcel和threadLocal问题怎么解决的；</p><p>11.讲一下JVM内存，内存中哪些区域会发生OOM；</p><p>12.手写：快排，时空复杂度；</p><p>13.反问</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>面经</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>java基本语法</title>
     <link href="/2024/03/17/java%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
     <url>/2024/03/17/java%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
@@ -42,6 +67,31 @@
   
   
   <entry>
+    <title>MySQL 练习1</title>
+    <link href="/2024/03/17/MySQL-test1/"/>
+    <url>/2024/03/17/MySQL-test1/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/03/17/hello-world/"/>
     <url>/2024/03/17/hello-world/</url>
@@ -49,6 +99,31 @@
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>HTML概述</title>
+    <link href="/2023/06/19/JavaWeb%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+    <url>/2023/06/19/JavaWeb%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创 JavaWeb 前端</tag>
+      
+    </tags>
     
   </entry>
   
